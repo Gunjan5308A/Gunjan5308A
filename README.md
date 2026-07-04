@@ -12,12 +12,6 @@ I am an AI/ML developer focused on building end-to-end intelligent systems. My e
 
 ---
 
-## 📈 GitHub Metrics
-
-![](https://github-readme-stats.vercel.app/api?username=gunjan5308a&show_icons=true&theme=radical)
-![](https://github-readme-top-langs.vercel.app/api/?username=gunjan5308a&layout=compact&theme=radical)
-
----
 
 ## 🌐 Connect With Me
 
