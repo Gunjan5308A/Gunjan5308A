@@ -1,6 +1,6 @@
 # About Me
 
-I am a AI/ML developer, i have worked on wide range of AI application from training to making automaition systems.
+I am a AI/ML developer, i have worked on wide range of AI application from training to making automation systems.
 
 ---
 
