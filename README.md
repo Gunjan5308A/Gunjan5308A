@@ -11,9 +11,6 @@ I am a AI/ML developer, i have worked on wide range of AI application from train
 
 ---
 
-## 📈 GitHub Metrics
----
-
 ## 🌐 Connect With Me
 
 Feel free to reach out for collaborations, project discussions, or tech talk.
