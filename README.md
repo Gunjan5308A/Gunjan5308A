@@ -1,13 +1,21 @@
-# About Me
+# 💫 About Me
 
-I am a AI/ML developer, i have worked on wide range of AI application from training to making automation systems.
+I am an AI/ML developer focused on building end-to-end intelligent systems. My experience ranges from training core machine learning models to architecting production-ready automation systems and pipelines.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
-* **Languages:** python
-* **Frameworks/Libraries:** pytorch, scikit-learn, langchain, fastapi
-* **Tools & Platforms:** Git, GitHub, Linux, hf
+
+* **Languages:** Python
+* **Frameworks & Libraries:** PyTorch, Scikit-Learn, LangChain, FastAPI
+* **Tools & Platforms:** Git, GitHub, Linux, Hugging Face (`hf`)
+
+---
+
+## 📈 GitHub Metrics
+
+![](https://github-readme-stats.vercel.app/api?username=gunjan5308a&show_icons=true&theme=radical)
+![](https://github-readme-top-langs.vercel.app/api/?username=gunjan5308a&layout=compact&theme=radical)
 
 ---
 
